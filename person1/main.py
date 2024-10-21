@@ -8,4 +8,4 @@ if __name__ == "__main__":
     print(f"File content: {content}")
     new_content = input("Enter new content to write: ")
     write_file(filename, new_content)
-    print("File updated successfully!")
+    print("This is a new update in person1")
